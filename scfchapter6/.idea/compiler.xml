@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="config-client" />
         <module name="config-server" />
+        <module name="eureka-server" />
         <module name="sc-f-chapter6" />
         <module name="scfchapter6" />
       </profile>
