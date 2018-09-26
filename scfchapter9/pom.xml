@@ -5,17 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.forezp</groupId>
-    <artifactId>sc-f-chapter6</artifactId>
+    <artifactId>sc-f-chapter9</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-
-    <name>sc-f-chapter6</name>
-    <description>Demo project for Spring Boot</description>
-
-    <modules>
-        <module>config-server</module>
-        <module>config-client</module>
-        <module>eureka-server</module>
-    </modules>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -59,6 +50,5 @@
             </plugin>
         </plugins>
     </build>
-
 
 </project>
