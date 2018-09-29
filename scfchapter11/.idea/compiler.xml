@@ -8,6 +8,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="eureka-server" />
         <module name="server-hi" />
+        <module name="service-lucy" />
+        <module name="service-turbine" />
       </profile>
     </annotationProcessing>
   </component>

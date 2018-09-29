@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3c4e804-fc33-4802-9a3c-508767c72850" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../scfchapter1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scfchapter1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scfchapter9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scfchapter9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scfchapter11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scfchapter11/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,7 +18,7 @@
     <session id="-1753979227">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.4" value="1" />
@@ -280,7 +279,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538134287316" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538135173429" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../SpringCloudLearning/sc-f-chapter12/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -495,7 +494,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32962137" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32962137" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
