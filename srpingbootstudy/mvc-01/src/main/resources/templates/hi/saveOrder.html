@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="zh-CN"
+      xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org"
+      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+      layout:decorator="shared/layout">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form action="/saveOrder" method="post">
+    订单名称：<input name="order.name" /><p />
+    订单明细1：<input name="details[0].name" /><p />
+    订单明细2：<input name="details[1].name" /><p />
+    <input type="submit" value="submit">
+</form>
+</body>
+</html>

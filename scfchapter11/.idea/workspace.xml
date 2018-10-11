@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81a72d01-373e-488c-914e-6eaaed2b4c7f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../scfchapter10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scfchapter10/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server-hi/src/main/java/com/forezp/serverhi/ServerHiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/server-hi/src/main/java/com/forezp/serverhi/ServerHiApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server-hi/src/main/java/com/forezp/serverhi/controller/HiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/server-hi/src/main/java/com/forezp/serverhi/controller/HiController.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -26,10 +20,13 @@
     <session id="-1950492731">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.28" value="2" />
+          <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -89,11 +86,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server-hi/src/main/java/com/forezp/serverhi/controller/HiController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
+            <state relative-caret-position="210">
               <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#683#699#1" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -102,11 +98,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/service-lucy/src/main/java/com/forezp/servicelucy/controller/HiController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
+            <state relative-caret-position="378">
               <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#462#478#1" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -115,7 +110,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/service-lucy/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
+            <state relative-caret-position="819">
               <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
             </state>
           </provider>
@@ -133,7 +128,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/service-lucy/src/main/java/com/forezp/servicelucy/ServiceLucyApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
+            <state relative-caret-position="231">
               <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -145,7 +140,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/service-lucy/src/test/java/com/forezp/servicelucy/ServiceLucyApplicationTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
+            <state relative-caret-position="210">
               <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -158,7 +153,7 @@
         <entry file="file://$PROJECT_DIR$/service-lucy/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="5" column="48" lean-forward="true" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+              <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -166,7 +161,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/service-turbine/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
+            <state relative-caret-position="210">
               <caret line="10" column="25" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="25" />
             </state>
           </provider>
@@ -244,8 +239,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2071" />
-    <option name="y" value="102" />
+    <option name="x" value="2036" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -255,7 +249,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -263,185 +257,12 @@
               <item name="scfchapter11" type="b2602c69:ProjectViewProjectNode" />
               <item name="scfchapter11" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="scfchapter11" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scfchapter11" type="462c0819:PsiDirectoryNode" />
-              <item name="server-hi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scfchapter11" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scfchapter11" type="462c0819:PsiDirectoryNode" />
-              <item name="server-hi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scfchapter11" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scfchapter11" type="462c0819:PsiDirectoryNode" />
-              <item name="server-hi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scfchapter11" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scfchapter11" type="462c0819:PsiDirectoryNode" />
-              <item name="server-hi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scfchapter11" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scfchapter11" type="462c0819:PsiDirectoryNode" />
-              <item name="server-hi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="serverhi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scfchapter11" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scfchapter11" type="462c0819:PsiDirectoryNode" />
-              <item name="server-hi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="serverhi" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scfchapter11" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scfchapter11" type="462c0819:PsiDirectoryNode" />
-              <item name="server-hi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scfchapter11" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scfchapter11" type="462c0819:PsiDirectoryNode" />
-              <item name="service-lucy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scfchapter11" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scfchapter11" type="462c0819:PsiDirectoryNode" />
-              <item name="service-lucy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scfchapter11" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scfchapter11" type="462c0819:PsiDirectoryNode" />
-              <item name="service-lucy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scfchapter11" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scfchapter11" type="462c0819:PsiDirectoryNode" />
-              <item name="service-lucy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scfchapter11" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scfchapter11" type="462c0819:PsiDirectoryNode" />
-              <item name="service-lucy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="servicelucy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scfchapter11" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scfchapter11" type="462c0819:PsiDirectoryNode" />
-              <item name="service-lucy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="servicelucy" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scfchapter11" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scfchapter11" type="462c0819:PsiDirectoryNode" />
-              <item name="service-lucy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scfchapter11" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scfchapter11" type="462c0819:PsiDirectoryNode" />
-              <item name="service-lucy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scfchapter11" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scfchapter11" type="462c0819:PsiDirectoryNode" />
-              <item name="service-lucy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scfchapter11" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scfchapter11" type="462c0819:PsiDirectoryNode" />
-              <item name="service-lucy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="servicelucy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scfchapter11" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scfchapter11" type="462c0819:PsiDirectoryNode" />
-              <item name="service-turbine" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scfchapter11" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scfchapter11" type="462c0819:PsiDirectoryNode" />
-              <item name="service-turbine" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scfchapter11" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scfchapter11" type="462c0819:PsiDirectoryNode" />
-              <item name="service-turbine" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scfchapter11" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scfchapter11" type="462c0819:PsiDirectoryNode" />
-              <item name="service-turbine" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scfchapter11" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scfchapter11" type="462c0819:PsiDirectoryNode" />
-              <item name="service-turbine" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="serviceturbine" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scfchapter11" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scfchapter11" type="462c0819:PsiDirectoryNode" />
-              <item name="service-turbine" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -451,7 +272,8 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538191974628" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538203741250" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../springbootstudy/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -579,10 +401,10 @@
     <list>
       <item itemvalue="Spring Boot.EurekaServerApplication" />
       <item itemvalue="Spring Boot.ServerHiApplication" />
-      <item itemvalue="Maven.server-hi [clean]" />
-      <item itemvalue="Maven.server-hi [compile]" />
       <item itemvalue="Spring Boot.ServiceLucyApplication" />
       <item itemvalue="Spring Boot.ServiceTurbineApplication" />
+      <item itemvalue="Maven.server-hi [clean]" />
+      <item itemvalue="Maven.server-hi [compile]" />
       <item itemvalue="Maven.sc-f-chapter11 [clean]" />
     </list>
     <recent_temporary>
@@ -604,18 +426,21 @@
       <option name="presentableId" value="Default" />
       <updated>1538104859086</updated>
       <workItem from="1538104863779" duration="13246000" />
-      <workItem from="1538186992505" duration="5619000" />
+      <workItem from="1538186992505" duration="7562000" />
+      <workItem from="1538203820389" duration="1196000" />
+      <workItem from="1538273632055" duration="637000" />
+      <workItem from="1538275797823" duration="990000" />
+      <workItem from="1538276980310" duration="28000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18865000" />
+    <option name="totallyTimeSpent" value="23659000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22441365" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23400854" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -625,7 +450,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.311804" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.311804" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -700,52 +525,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service-turbine/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service-turbine/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service-lucy/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service-lucy/src/test/java/com/forezp/servicelucy/ServiceLucyApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server-hi/src/main/java/com/forezp/serverhi/ServerHiApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-hi/src/main/java/com/forezp/serverhi/controller/HiController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#683#699#1" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -756,20 +539,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/server-hi/src/main/java/com/forezp/serverhi/controller/HiController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/service-lucy/src/main/java/com/forezp/servicelucy/controller/HiController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
+        <state relative-caret-position="378">
           <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#462#478#1" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-lucy/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="819">
+          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-turbine/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/service-lucy/src/main/java/com/forezp/servicelucy/ServiceLucyApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
+        <state relative-caret-position="231">
           <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -777,10 +583,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/service-lucy/src/test/java/com/forezp/servicelucy/ServiceLucyApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-turbine/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/service-lucy/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="5" column="48" lean-forward="true" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
         </state>
       </provider>
     </entry>
